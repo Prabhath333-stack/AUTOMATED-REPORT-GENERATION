@@ -26,7 +26,8 @@ Each row of the CSV data is iterated over using DataFrame.iterrows(), and the co
 
 Conclusion
 These scripts together demonstrate a basic pipeline: data creation, analysis, and reporting. They are useful for automating business reporting tasks, converting raw data into human-readable formats. pandas handles data manipulation, while reportlab enables professional-quality PDF report generation. The approach can be scaled for larger datasets, integrated with real-time data sources, or enhanced with charts and styling.
-
+![Image](https://github.com/user-attachments/assets/54ef4402-e1f5-4835-937d-22ee9e56b973)
+[sales_report (1).pdf](https://github.com/user-attachments/files/20820477/sales_report.1.pdf)
 
 
 
